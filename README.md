@@ -14,7 +14,7 @@ Tailwind CSS | Axios | JSON Server | Redux | React-Redux | Redux-Thunk | React R
 
 # Projeyi Çalıştırmak için Adımlar:
 	1.	Projeyi Klonlayın:
-git clone [projenin-GitHub-linki]
+git clone [[projenin-GitHub-linki](https://github.com/nevaldurmaz/Yemek-Sepeti.git)]
 cd [proje-dizini]
 	2.	Bağımlılıkları Yükleyin:
 npm install
