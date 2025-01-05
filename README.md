@@ -8,6 +8,7 @@ React ve Redux kullanarak geliştirdiğim modern bir yemek sipariş platformu.
 	•	Sepete eklenen ürünlerin miktarını artırma/azaltma ve toplam tutarı görme
 	•	Kullanıcı giriş yap/kayıt ol seçenekleri
 	•	Responsive Tasarım: Mobil cihazlardan masaüstüne kadar tüm ekran boyutlarında uyumlu kullanıcı arayüzü
+        •	Redux & Redux Thunk: Asenkron işlemler için Redux Thunk kullanılarak API çağrıları ve veri akışı yönetildi.
  
 # Kullanılan Teknolojiler:
 Tailwind CSS | Axios | JSON Server | Redux | React-Redux | Redux-Thunk | React Router | UUID | React Icons
